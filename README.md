@@ -1,2 +1,2 @@
-# edgar
+# Edgar
 Personal Repository
